@@ -1,5 +1,7 @@
 # Student Management System
 
+Deployed link :- https://smshubbit.netlify.app/
+
 A production-ready MERN student directory built for a three-tier cloud architecture:
 
 `Browser → Netlify (React/Vite) → Render (Node/Express REST API) → MongoDB Atlas`
